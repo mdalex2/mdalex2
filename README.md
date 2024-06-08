@@ -6,7 +6,7 @@ Ingeniero en Informática
 
 ¡Hola! Soy Jairo Alexi Mendoza, Ingeniero en Informática con experiencia en desarrollo de aplicaciones.
 
-*   🌍  I'm based in B
+*   🌍  I'm based in Buenos Aires Argentina
 *   ✉️  You can contact me at [mdalex2@gmail.co](mailto:mdalex2@gmail.com)
 *   🤝  I'm open to collaborating on P### Skills 
 <p align="left">
